@@ -1,3 +1,4 @@
+//git push --set-upstream origin master
 package curso200344;
 
 public class Aula implements Comparable<Aula>{
